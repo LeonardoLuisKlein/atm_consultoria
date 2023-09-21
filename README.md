@@ -1,4 +1,6 @@
-# atm_consultoria
+# ATM CONSULTORIA
+## Projeto desenvolvido na disciplina Programação para dispositivos móveis
+![image](https://github.com/LeonardoLuisKlein/atm_consultoria/assets/106256199/69d5674b-c2a2-401f-9027-621e35b06e56)
 
 A new Flutter project.
 
